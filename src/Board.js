@@ -5,7 +5,6 @@ import Square from "./Square";
 const Board = () => {
     const [squares, setSquares] = useState(Array(9).fill(null));
     const [isNext, setIsNext] = useState(true);
-    const [statusDiclared, setStatusDiclared] = useState(false);
 
     const handlerSquare = (index) => {
         const newSquare = [...squares];
