@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-A simple implementation of the classic Tic-Tac-Toe game built with React.
+A simple implementation of the Classic Tic-Tac-Toe game built with React.
 
 ## Features
 
